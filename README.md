@@ -95,7 +95,7 @@ The immediate next step is extending the system from assessment to active resour
 ![Architecture](architecture.png)
 
 ## Demo
-(put demo video link here)
+https://youtu.be/XBi2GVVjPgA
 
 ## License
 Apache 2.0
