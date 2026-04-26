@@ -91,6 +91,9 @@ The immediate next step is extending the system from assessment to active resour
 ## Architecture
 ![Architecture](architecture.png)
 
+## Demo Preview
+![Disaster Assessment Demo](output/GeoReliefAI.gif)
+
 ## Demo
 https://youtu.be/XBi2GVVjPgA
 
