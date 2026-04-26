@@ -1,8 +1,5 @@
 # Disaster Zone Aerial Assessment System
 
-## Problem
-Automated detection of disaster damage, blocked roads, and resource delivery routes from aerial video.
-
 # About the Project
 
 ## Inspiration
