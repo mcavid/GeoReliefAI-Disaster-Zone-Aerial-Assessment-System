@@ -1,0 +1,6 @@
+twelvelabs
+python-dotenv
+rich
+geopandas
+folium
+pandas
