@@ -17,7 +17,7 @@ Outputs:
 - GeoJSON map outputs
 
 ## Architecture
-Video → Feature Extraction → Geospatial Mapping → Decision Support Outputs
+![Architecture](architecture.png)
 
 ## Demo
 (put demo video link here)
